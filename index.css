@@ -1,0 +1,11 @@
+body{
+    background: rgb(36,0,0);
+background: linear-gradient(90deg, rgba(16, 16, 16, 0.83) 0%, rgba(126, 125, 126, 0.922) 35%, rgba(246, 243, 243, 0.922) 100%);
+}
+#class{
+    color:aliceblue
+
+}
+#group{
+    color:aliceblue
+}
